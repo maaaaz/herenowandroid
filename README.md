@@ -3,7 +3,7 @@ Here Now Android
 
 Description
 -----------
-A simple android port of the original Nokia Here & Now application
+A simple android port of the original Nokia Here and Now application
 
 Features
 --------
