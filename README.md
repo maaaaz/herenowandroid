@@ -1,9 +1,9 @@
-herenowandroid
+Here Now Android
 ==============
 
 Description
 -----------
-A simple android port of the original Nokia Here Now application
+A simple android port of the original Nokia Here & Now application
 
 Features
 --------
@@ -18,6 +18,8 @@ Installation
 
 ### Screenshots
 ```
+(https://raw.github.com/maaaaz/herenowandroid/master/screenshots/general_info.png)
+(https://raw.github.com/maaaaz/herenowandroid/master/screenshots/weather.png)
 ```
 
 Requirements
