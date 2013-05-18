@@ -18,7 +18,7 @@ Installation
 * Accept permissions and proceed to installation
 
 ### Screenshots
-![alt text](https://raw.github.com/maaaaz/herenowandroid/master/screenshots/general_info.png "General information")
+![alt text](https://raw.github.com/maaaaz/herenowandroid/master/screenshots/general_info.png "General information")  
 ![alt text](https://raw.github.com/maaaaz/herenowandroid/master/screenshots/weather.png "Weather")
 
 Requirements
