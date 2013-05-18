@@ -14,12 +14,12 @@ Features
 Installation
 ------------
 * Tick "Unknown sources" in "Settings"
-* Download the latest [apk file]()
+* Download the latest [apk file](https://raw.github.com/maaaaz/herenowandroid/master/bin/HereNowAndroid.apk)
 
 ### Screenshots
 ```
-(https://raw.github.com/maaaaz/herenowandroid/master/screenshots/general_info.png)
-(https://raw.github.com/maaaaz/herenowandroid/master/screenshots/weather.png)
+[General information]: (https://raw.github.com/maaaaz/herenowandroid/master/screenshots/general_info.png)
+[Weather]: (https://raw.github.com/maaaaz/herenowandroid/master/screenshots/weather.png)
 ```
 
 Requirements
