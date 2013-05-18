@@ -27,7 +27,7 @@ Requirements
 
 Copyright and license
 ---------------------
-The original Nokia Here Now application belongs to Nokia. As a consequence, this application is under any Nokia's wishes.
+The original Nokia Here Now application belongs to Nokia. As a consequence, this application is under any Nokia's wishes.  
 I don't own anything about this application as I simply ripped up logic and graphic of the original app to port it to a simple Android WebView.
 
 Nokia, I love your products. Be kind to this port.
