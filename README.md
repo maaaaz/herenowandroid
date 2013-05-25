@@ -25,6 +25,11 @@ Requirements
 ------------
 * Android >= 2.3.3 (API 10)
 
+Changelog
+---------
+* version 1.1 - 05/25/2013 : Back button navigation supported
+* version 1.0 - 05/18/2013 : Initial commit
+
 Copyright and license
 ---------------------
 The original Nokia Here Now application belongs to Nokia. As a consequence, this application is under any Nokia's wishes.  
